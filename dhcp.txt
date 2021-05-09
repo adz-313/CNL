@@ -1,0 +1,13 @@
+[9:37 AM] Mayur_Chavan
+install dhcp
+	configure /etc/dhcp/dhcpd.conf
+	save the changes
+	provide ip to server
+	keep dhcp on
+	client select auto dhcp
+	analyze ip of both systems
+	ping from each other
+	using remote login access
+	install and remove software
+
+

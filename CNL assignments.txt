@@ -1,0 +1,28 @@
+Part A: Setup a wired LAN using Layer 2 Switch and then IP switch of minimum four computers. It includes preparation of cable, testing of cable using line tester, configuration machine using IP addresses, testing using PING
+ utility and demonstrate the PING packets captured traces using Wireshark Packet Analyzer Tool.Part B:
+ Extend the same Assignment for Wireless using Access Point.
+
+Write a program in C/C++ for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. ( 50% students will
+ perform Hamming Code and others will perform CRC)
+
+Write a program in Java/Python to demonstrate sub netting and find the sub net masks.
+
+Installing and configure DHCP server and write a program (C++\Python\Java) to install the software on remote machine.
+
+Write a program in C/C++ using UDP Sockets to enable file transfer (Script, Text, Audio and Video one file each) between two machines. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer
+ mode.
+
+Write a program in C/C++ using TCP socket for wired network for followinga. Say Hello to Each other ( For all students)b. File transfer ( For all students)c. Calculator (Arithmetic) (50% students)d. Calculator (Trigonometry) (50%
+ students)Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer topeer mode.
+
+Write a program in C/C++ to analyze following packet formats captured through Wireshark for wired network. 1. FTP 2. IP 3.TCP 4. UDP
+
+Write a program for DNS lookup. Given an IP address input, it should return URL and vice-versa.
+
+Study of any network simulation tools - To create a network with three nodes and establish aTCP connection between node 0 and node 1 such that node 0 will send TCP packet to node 2 via node 1.
+
+Use network simulator NS2 to implement:a. Monitoring traffic for the given topology.b. Analysis of CSMA and Ethernet protocols.c. Network Routing: Shortest path routing, AODV.d. Analysis of congestion control (TCP and UDP).
+
+Configure RIP/OSPF/BGP using packet Tracer.
+
+Write a program using TCP/UDP sockets for wired network to implementa. Peer to Peer Chatb. Multiuser ChatDemonstrate the packets captured traces using Wireshark Packet Analyzer Tool.
